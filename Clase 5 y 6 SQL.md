@@ -67,7 +67,7 @@ También podemos hacer otra consulta dentro de la consulta (por ejemplo hacer un
 - LEFT y RIGHT JOIN mantiene las tuplas de las respectivas tablas que no tienen correspondencia
     - El `FULL OUTER JOIN` mantiene todas las tuplas que no tienen correspondencia
     
-    ![Untitled](5%20y%206%20SQL%208d2c14fe8f054b6893d40c8f41f3010a/Untitled.png)
+    ![Untitled](fotos/Clase5y6.png)
     
 
 ## Conexión con python

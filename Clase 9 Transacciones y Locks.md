@@ -78,4 +78,4 @@ Al final se hace:
 - `ROLLBACK`: Para deshacerla a un savepoint
     - `SAVEPOINT`: checkpoints que se pueden poner en medio de una transacción (se le pueden poner nombres)
 
-![Untitled](Clase%209%20Transacciones%20y%20Locks%20900e3667beb04f7495f5a68a6ba1a93c/Untitled.png)
+![Untitled](fotos/Clase9.png)
